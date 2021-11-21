@@ -7,10 +7,10 @@
   - Matlab
   - Html/CSS
   
- - 🤔 What I want to know:
+- 🤔 What I want to know:
   - Game Development through Unity/Unreal. 
   - Ethical Hacking (Ethical, or just want to keep a constant surveillance on my friends 👿)
  
- - 😎 Experiences:
+- 😎 Experiences:
   - Django (Made 2 websites with it: [InSCIgnis](inscignis.in) [Tezpur University Students' Science Council](tussc.in))
 
